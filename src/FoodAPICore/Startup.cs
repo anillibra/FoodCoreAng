@@ -25,6 +25,7 @@ namespace FoodAPICore
 {
     public class Startup
     {
+        // test
         public IConfiguration Configuration { get; }
 
         public Startup(IConfiguration configuration)
