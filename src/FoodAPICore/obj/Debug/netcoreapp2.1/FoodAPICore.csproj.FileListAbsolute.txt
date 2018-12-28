@@ -1,0 +1,14 @@
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\bin\Debug\netcoreapp2.1\FoodAPICore.deps.json
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\bin\Debug\netcoreapp2.1\FoodAPICore.runtimeconfig.json
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\bin\Debug\netcoreapp2.1\FoodAPICore.runtimeconfig.dev.json
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\bin\Debug\netcoreapp2.1\FoodAPICore.dll
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\bin\Debug\netcoreapp2.1\FoodAPICore.pdb
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\obj\Debug\netcoreapp2.1\FoodAPICore.csprojAssemblyReference.cache
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\obj\Debug\netcoreapp2.1\FoodAPICore.csproj.CoreCompileInputs.cache
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\obj\Debug\netcoreapp2.1\FoodAPICore.RazorAssemblyInfo.cache
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\obj\Debug\netcoreapp2.1\FoodAPICore.RazorAssemblyInfo.cs
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\obj\Debug\netcoreapp2.1\FoodAPICore.AssemblyInfoInputs.cache
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\obj\Debug\netcoreapp2.1\FoodAPICore.AssemblyInfo.cs
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\obj\Debug\netcoreapp2.1\FoodAPICore.RazorTargetAssemblyInfo.cache
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\obj\Debug\netcoreapp2.1\FoodAPICore.dll
+D:\MyProjects\ASPNETCore-Angular-Ngrx-master\ASPNETCore-Angular-Ngrx-master\server\ASP.NETCore\src\FoodAPICore\obj\Debug\netcoreapp2.1\FoodAPICore.pdb
